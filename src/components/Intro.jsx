@@ -12,6 +12,12 @@ const Intro = () => {
       </p>
       <p className="text-sm max-w-xl mb-6 font-bold">
         This is my bio, pay attention. <br />
+        5+ years working mainly with Java in different type of industries such
+        as taxes, banks, games and now booking professionals and managing
+        orders. Developing and delivering web applications with different
+        technologies and teams to bring the best solution based on product
+        requirements. Always willing to do a great team work for the best of the
+        teams and the product itself.
         <a
           href="https://ar.linkedin.com/in/ffailla"
           target="blank"
