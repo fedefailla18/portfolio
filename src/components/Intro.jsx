@@ -2,14 +2,14 @@ import React from "react";
 
 const Intro = () => {
   return (
-    <div className="flex items-center justify-center flex-col text-center pt-20 pb-6">
-      <h1 className="text-4x1 md:text-7x1 mb-1 md:mb-3 font-bold">
+    <div className="flex items-center justify-center flex-col text-center pt-20 pb-6 ">
+      <h1 className="text-4xl md:text-7xl dark:text-white mb-1 md:mb-3 font-bold ">
         {" "}
-        Federico{" "}
+        Federico Failla{" "}
       </h1>
-      <p className="text-base md:text-xl mb-e font-medium ">
+      <h5 className="text-base md:text-xl mb-e font-medium margin py-4 pt-0 ">
         Software Web Engineer
-      </p>
+      </h5>
       <p className="text-sm max-w-xl mb-6 font-bold">
         This is my bio, pay attention. <br />
         5+ years working mainly with Java in different type of industries such
